@@ -1,0 +1,19 @@
+# Credentials and local secrets
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+*.pfx
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# Generated local data / results
+data/private/
+data/raw/
+*.parquet
+*.delta
+.DS_Store
