@@ -1,8 +1,8 @@
 # Microsoft Fabric Mastery — DP-600 + DP-700
 
 **Timeline:** 16 November 2026 – 28 February 2027  
-**DP-600 target:** 15 December 2026  
-**DP-700 target:** 14 January 2027 (15 January contingency)  
+**DP-600 target:** ## ##### ####  
+**DP-700 target:** ## ### #### (## ### contingency)  
 **Daily plan:** 120 minutes Fabric plus 45 minutes SQL revision.
 
 > This is a learning and portfolio repository. Exam appointments are targets until officially booked. All labs should be verified in Microsoft Fabric before being marked complete.
